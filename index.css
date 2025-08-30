@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  font-family: "Bitcount Prop Single", system-ui;
+  background-color: grey;
+}
+
